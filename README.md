@@ -1,10 +1,17 @@
 Hi, I'm Natthaphum Aree(ADHA)
+
 B.S.Digital Science and Technology, Kasetsart University Sriracha campus
+
 Interested in Data Analytics
+
  SKILL
+ 
  Database: MySQL, MongoDB
+ 
  Data & AI: Python, Machine Learning, Streamlit,Excel,Matlab
+ 
  🛠️ Languages and Tools
+ 
  <!-- Languages / Skills -->
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
