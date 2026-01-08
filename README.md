@@ -13,7 +13,6 @@
 ---
 
 ## 🛠 Languages & Tools
-
 <p>
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
@@ -26,20 +25,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
 
   <!-- ML / Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" alt="Machine Learning (TensorFlow)" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="45" alt="Streamlit" />
 
-  <!-- Excel + MATLAB (ใช้ simpleicons CDN ที่ขึ้นชัวร์) -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="45" alt="Microsoft Excel" />
-  <img src="https://cdn.simpleicons.org/mathworks" height="45" alt="MATLAB (MathWorks)" />
-
+ 
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 </p>
-
 
 ---
 
